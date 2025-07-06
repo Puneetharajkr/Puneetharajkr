@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hey there, I'm Puneetharaj K R
 
-<!--
-**Puneetharajkr/Puneetharajkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate MERN Stack Developer with hands-on experience in React.js, Node.js, Express, MongoDB, and SQL/SQLite.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Freelance Services on Fiverr
+
+🚀 I’m now offering development services as a freelancer on Fiverr!  
+Check out my active gigs below:
+
+- 🔹 [React Frontend Website Development](https://www.fiverr.com/s/yvaxyyz)
+- 🔹 [Full Stack MERN App Development](https://www.fiverr.com/s/1qxz4e6)
+- 🔹 [Backend API Development (Node.js + Express)](https://www.fiverr.com/s/kLWzvWy)
+
+📬 DM me if you’re looking to build  websites, APIs, React Apps or MERN full-stack apps!
+
+---
+
+## 📫 Contact Me
+
+- ✉️ puneetharajkr123@gmail.com  
+- 🌐 [GitHub](https://github.com/Puneetharajkr) | [LinkedIn](https://www.linkedin.com/in/puneetharaj-k-r-49929a239/)
